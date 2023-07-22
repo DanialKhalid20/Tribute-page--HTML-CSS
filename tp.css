@@ -1,0 +1,81 @@
+.body{
+    background-color: rgb(18, 16, 20);
+    margin :0;
+}
+.a{
+    color: white;
+    text-align: center;
+
+}
+
+.body .main{
+    background-color: black;
+
+  
+    height: max-content;
+position: absolute;
+top: 0;
+left: 60vh;;
+right: 60vh;
+bottom: 0px;
+    width: 40%;
+   
+}
+.img{
+    width: 40px;
+    height: 40px;
+ position: absolute;  
+ 
+left: 38vh;
+right: 38vh; 
+}
+.img:hover{
+    scale: 1.2;
+
+    transition: all ease 0.2s;
+}
+
+.middle{
+    height: 200px;
+    background-color: white;
+   
+}
+.middle :hover {
+    
+    scale:0.8 ;
+
+    transition: all ease 0.2s;
+}
+
+
+
+.steve{
+    height: 196px;
+    position: absolute;  
+ 
+left: 290px;
+top: 165px;
+
+}
+.quote{
+position: absolute;
+left: 60px;
+top: 210px;    
+}
+.p{
+    margin:auto;
+    width: 55%;
+    text-align: justify;
+    color: white;
+    
+}
+
+.h{
+    width: 70%;
+}
+.last{
+text-align: center;
+color: white;
+font-size: small;
+}
+
